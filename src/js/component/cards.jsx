@@ -7,9 +7,9 @@ const Card = () => {
 			<div className="card-body">
 				<h5 className="card-title">Card title</h5>
 				<p className="card-text">
-					This is a longer card with supporting text below as a
-					natural lead-in to additional content. This content is a
-					little bit longer.
+				Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+				sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+				Ut enim ad minim veniam.
 				</p>
 			</div>
 			<div className="card-footer text-center">

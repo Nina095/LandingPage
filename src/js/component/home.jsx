@@ -1,7 +1,7 @@
 import React from "react";
-import Navbar from "/workspace/react-hello/src/js/component/navbar.jsx";
-import Jumbotron from "/workspace/react-hello/src/js/component/jumbotron.jsx";
-import Card from "/workspace/react-hello/src/js/component/cards.jsx";
+import Navbar from "./navbar.jsx";
+import Jumbotron from "./jumbotron.jsx";
+import Card from "./cards.jsx";
 
 //create your first component
 const Home = () => {
@@ -26,8 +26,8 @@ const Home = () => {
 				</div>
 			</div>
 			<div className="container-fluid text-center bg-dark footer">
-				<p className="text-secondary h-100 ">
-					Copyright @ Jasmine React Landing Page{" "}
+				<p className="text-secondary">
+					Copyright @ Jasmine Landing Page{" "}
 				</p>
 			</div>
 		</div>
